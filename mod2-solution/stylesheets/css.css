@@ -1,19 +1,18 @@
   * {
   box-sizing: border-box;
   background-color: grey
+  font-family: 'Source Serif Pro', serif;
 }
 
 h1 {
   margin-bottom: 2px;
   text-align: center;
-  font-family: Helvetica;
   color: black;
   font-size: 1.75em
 }
 
 b{
   color: #2E3532;
-  font-family:Helvetica;
   border:1px solid black;
   position:absolute;
   right: 20px;
@@ -31,7 +30,6 @@ p {
   margin-right: auto;
   margin-left: auto;
   margin-top: 0px;
-  font-family: Helvetica;
   padding: 40px 30px 30px 30px;
   color: #2E3532;
   background-color: #61988E;
